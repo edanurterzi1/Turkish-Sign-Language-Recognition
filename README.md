@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 🤟 Turkish Sign Language Recognition
+# Turkish Sign Language Recognition
 
 **A Real-Time Sign Language Recognition System Built with PyTorch**
 
