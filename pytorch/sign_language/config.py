@@ -6,9 +6,8 @@ _PACKAGE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 DEFAULT_DATA_ROOT = os.environ.get(
     "SIGN_LANGUAGE_DATA_ROOT",
-    "C:/Users/edanu/Desktop/sign_languange_recognition/sign_languange/tr_signLanguage_dataset",
+    "../data",
 )
-
 
 MODELS_DIR = "pytorch/models"
 os.makedirs(MODELS_DIR, exist_ok=True)
